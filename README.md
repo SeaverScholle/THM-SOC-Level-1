@@ -36,22 +36,22 @@ All rooms are documented in the rooms/ directory.
 
 Example structure:
 ```
-rooms/
- ├── blue-team-introduction/
- │   └── junior-security-analyst-intro/
- │       ├── README.md
- │       └── screenshots/
- │           ├── task-1.png
- │           ├── task-2.png
- │           └── task-3.png
- │
- └── soc-team-internals/
-     └── soc-metrics-and-objectives/
-         ├── README.md
-         └── screenshots/
-             ├── task-1.png
-             ├── task-2.png
-             └── task-3.png
+
+ blue-team-introduction/
+ ├── junior-security-analyst-intro/
+     ├── README.md
+     └── screenshots/
+         ├── task-1.png
+         ├── task-2.png
+         └── task-3.png
+  
+ soc-team-internals/
+ ├── soc-metrics-and-objectives/
+     ├── README.md
+     └── screenshots/
+         ├── task-1.png
+         ├── task-2.png
+         └── task-3.png
 
 ```
 
