@@ -1,0 +1,45 @@
+# Humans as an Attack Vector
+
+## Summary
+Humans are often the weakest link in cybersecurity. 
+Attackers exploit human psychology and emotions rather 
+than technical vulnerabilities to gain access to systems 
+and sensitive information.
+
+## Key Concepts
+- Social Engineering — Manipulating people into giving 
+  up confidential information or access
+- Phishing — Sending fake emails pretending to be 
+  legitimate organizations to steal credentials
+- Vishing — Same as phishing but done over the phone
+- Pretexting — Creating a fake scenario to trick someone 
+  into giving up information
+- Baiting — Leaving infected USB drives or devices for 
+  someone to find and plug in
+
+## Why Humans Are Vulnerable
+- We naturally trust authority figures
+- We act differently under pressure or urgency
+- We want to be helpful
+- We are creatures of habit and routine
+
+## How Attackers Exploit Humans
+- Creating fake urgency like "your account will be deleted"
+- Impersonating IT staff or management
+- Exploiting emotions like fear, curiosity, or greed
+- Building fake trust over time before attacking
+
+## How Defenders Protect Against This
+- Security awareness training for all staff
+- Phishing simulation exercises
+- Clear policies for verifying identities
+- Teaching employees to slow down and verify requests
+
+## My Key Takeaway
+Technology alone cannot secure an organization because 
+humans can be manipulated into bypassing even the 
+strongest technical controls.
+
+## Questions I Still Have
+-How do we insure that the training is actually working. 
+-What are all the ways an organization can be exploited through social engineering.
