@@ -1,0 +1,15 @@
+# SOC L1 Alert Reporting
+
+## Summary
+The L1 reports the alert before passing it to the L2. 
+
+## Key Concepts
+- Alert Escalation - a true positive alert beiing passed to the L2.
+
+## Report Format
+- Who - which user logs in, runs command, or downloads file.
+- What - what action or event sequence was preformed.
+- When - when did the suspicious activity start and end.
+- Where - which device, ip, or website was involved in the alert.
+- Why - reasoning for the final verdict.
+
