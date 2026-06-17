@@ -1,0 +1,43 @@
+# SOC Metrics and Objectives
+
+## Summary
+SOC teams use specific metrics to measure their 
+effectiveness and response capabilities. These metrics 
+help organizations understand how well their security 
+team is performing and where improvements are needed.
+
+## Key Concepts
+- Service Level Agreement (SLA) — A document signed 
+  between the internal SOC team and company management 
+  that defines expected response times and performance 
+  standards
+- MTTD — Mean Time to Detect. How long it takes the 
+  SOC to detect a threat after it occurs
+- MTTA — Mean Time to Acknowledge. How long it takes 
+  the SOC to acknowledge and begin responding to an 
+  alert after it is detected
+- MTTR — Mean Time to Respond. How long it takes the 
+  SOC to fully contain and resolve a threat
+- False Positive — An alert that triggers but turns out 
+  to not be an actual threat
+- True Positive — An alert that triggers and is confirmed 
+  to be a real threat
+
+## How SOC Teams Are Measured
+- Lower MTTD means threats are caught faster
+- Lower MTTA means analysts are responding quicker
+- Lower MTTR means incidents are resolved more efficiently
+- SLA defines the acceptable thresholds for each metric
+
+## How Defenders Use These Metrics
+- Identifying gaps in detection and response processes
+- Justifying budget and staffing to management
+- Measuring improvement over time
+- Holding the SOC team accountable to agreed standards
+
+## My Key Takeaway
+SOC metrics exist to make security measurable. A SOC 
+team that cannot measure its performance cannot improve it.
+
+## Questions I Still Have
+-
