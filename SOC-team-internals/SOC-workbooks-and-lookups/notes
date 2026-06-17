@@ -1,0 +1,10 @@
+# SOC Workbooks and Lookups
+
+## Summary
+Workbooks are used to help analysts investigate threats in a step by step and I created some in this lesson.
+
+## Key Concepts
+- Asset Inventory - Lookup, a list of all comuting resources in the organization
+- Identity Inventory - catalouge of corporate employees, services, and privilages
+- Network Diagram - visual schema presenting existing locations, subnets,and connections 
+- SOC workbook - playbook, runbook, or workflow the steps required to investigate threats
